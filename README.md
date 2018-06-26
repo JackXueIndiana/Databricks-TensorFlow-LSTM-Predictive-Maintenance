@@ -1,7 +1,7 @@
 # Databricks-TensorFlow-LSTM-Predictive-Maintenance
 In this repo we will show you how to set up Databricks clsuter and run Python 3 with keras and tensorflow for LSTM model against the same dataset for the predictive maintenance. 
 
-A cluster is Standard v 4 Databricks clsuter is created with mix of 2 and max of 8 DS3_V2 workders. 
+A cluster is Standard v 4 Databricks clsuter is created with mix of 2 and max of 8 DS3_V2 workders. Libraries keras and tensorflow were loaded using PyPi.
 
 The dataset for the predictive maintenance is from
 
