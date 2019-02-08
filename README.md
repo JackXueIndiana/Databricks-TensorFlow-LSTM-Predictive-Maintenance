@@ -19,3 +19,5 @@ precision =  0.9744915546363323
  recall =  0.9119354838709678
  
 auc =  0.9530150645753371
+
+P.S. I am in the process to update this script to run on Azure Databricks GPU cluster: 5.2 ML Beta (includes Apache Spark 2.4.0, GPU, Scala 2.11) so I can levlerage konovod for push-down.
